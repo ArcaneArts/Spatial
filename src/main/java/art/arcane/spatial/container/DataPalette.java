@@ -16,9 +16,9 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.container;
+package art.arcane.spatial.container;
 
-import org.cyberpwn.spatial.util.IOAdapter;
+import art.arcane.spatial.util.IOAdapter;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

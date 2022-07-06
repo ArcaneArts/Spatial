@@ -16,11 +16,11 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.matter.slices;
+package art.arcane.spatial.matter.slices;
 
 
-import org.cyberpwn.spatial.container.Palette;
-import org.cyberpwn.spatial.matter.Sliced;
+import art.arcane.spatial.container.Palette;
+import art.arcane.spatial.matter.Sliced;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

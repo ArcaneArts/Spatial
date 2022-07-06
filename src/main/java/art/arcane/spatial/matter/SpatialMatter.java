@@ -16,17 +16,17 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.matter;
+package art.arcane.spatial.matter;
 
 import lombok.Getter;
-import org.cyberpwn.spatial.matter.slices.BooleanMatter;
-import org.cyberpwn.spatial.matter.slices.ByteMatter;
-import org.cyberpwn.spatial.matter.slices.DoubleMatter;
-import org.cyberpwn.spatial.matter.slices.FloatMatter;
-import org.cyberpwn.spatial.matter.slices.IntMatter;
-import org.cyberpwn.spatial.matter.slices.LongMatter;
-import org.cyberpwn.spatial.matter.slices.ShortMatter;
-import org.cyberpwn.spatial.matter.slices.StringMatter;
+import art.arcane.spatial.matter.slices.BooleanMatter;
+import art.arcane.spatial.matter.slices.ByteMatter;
+import art.arcane.spatial.matter.slices.DoubleMatter;
+import art.arcane.spatial.matter.slices.FloatMatter;
+import art.arcane.spatial.matter.slices.IntMatter;
+import art.arcane.spatial.matter.slices.LongMatter;
+import art.arcane.spatial.matter.slices.ShortMatter;
+import art.arcane.spatial.matter.slices.StringMatter;
 
 import java.util.HashMap;
 import java.util.Map;

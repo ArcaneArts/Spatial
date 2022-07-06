@@ -16,7 +16,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.hunk;
+package art.arcane.spatial.hunk;
 
 public enum HunkFace {
     TOP,

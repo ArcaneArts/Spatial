@@ -16,7 +16,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.parallel;
+package art.arcane.spatial.parallel;
 
 public class PrecisionStopwatch {
     private long nanos;

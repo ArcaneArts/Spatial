@@ -18,7 +18,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.util;
+package art.arcane.spatial.util;
 
 import java.io.DataInput;
 import java.io.DataOutput;

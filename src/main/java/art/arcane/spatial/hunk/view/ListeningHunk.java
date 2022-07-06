@@ -16,11 +16,11 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.hunk.view;
+package art.arcane.spatial.hunk.view;
 
 
-import org.cyberpwn.spatial.hunk.Hunk;
-import org.cyberpwn.spatial.util.Consume;
+import art.arcane.spatial.hunk.Hunk;
+import art.arcane.spatial.util.Consume;
 
 @SuppressWarnings("ClassCanBeRecord")
 public class ListeningHunk<T> implements Hunk<T> {

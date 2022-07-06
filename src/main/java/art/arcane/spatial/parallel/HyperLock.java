@@ -16,12 +16,12 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.parallel;
+package art.arcane.spatial.parallel;
 
 
+import art.arcane.spatial.util.CompressedNumbers;
+import art.arcane.spatial.util.Run;
 import com.googlecode.concurrentlinkedhashmap.ConcurrentLinkedHashMap;
-import org.cyberpwn.spatial.util.CompressedNumbers;
-import org.cyberpwn.spatial.util.Run;
 
 import java.io.IOException;
 import java.util.HashSet;

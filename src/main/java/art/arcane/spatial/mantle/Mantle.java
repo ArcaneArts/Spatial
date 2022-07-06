@@ -16,17 +16,17 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.mantle;
+package art.arcane.spatial.mantle;
 
 
+import art.arcane.spatial.matter.Matter;
+import art.arcane.spatial.matter.MatterSlice;
+import art.arcane.spatial.parallel.BurstExecutor;
+import art.arcane.spatial.parallel.HyperLock;
+import art.arcane.spatial.parallel.MultiBurst;
+import art.arcane.spatial.util.CompressedNumbers;
+import art.arcane.spatial.util.Consume;
 import lombok.Getter;
-import org.cyberpwn.spatial.matter.Matter;
-import org.cyberpwn.spatial.matter.MatterSlice;
-import org.cyberpwn.spatial.parallel.BurstExecutor;
-import org.cyberpwn.spatial.parallel.HyperLock;
-import org.cyberpwn.spatial.parallel.MultiBurst;
-import org.cyberpwn.spatial.util.CompressedNumbers;
-import org.cyberpwn.spatial.util.Consume;
 
 import java.io.File;
 import java.io.IOException;

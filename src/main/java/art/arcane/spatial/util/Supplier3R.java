@@ -16,7 +16,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.util;
+package art.arcane.spatial.util;
 
 public interface Supplier3R<T, TT, TTT, TTTT> {
     TTTT get(T t, TT tt, TTT ttt);

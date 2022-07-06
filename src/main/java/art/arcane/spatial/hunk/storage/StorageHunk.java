@@ -16,10 +16,10 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.hunk.storage;
+package art.arcane.spatial.hunk.storage;
 
+import art.arcane.spatial.hunk.Hunk;
 import lombok.Data;
-import org.cyberpwn.spatial.hunk.Hunk;
 
 @Data
 public abstract class StorageHunk<T> implements Hunk<T> {

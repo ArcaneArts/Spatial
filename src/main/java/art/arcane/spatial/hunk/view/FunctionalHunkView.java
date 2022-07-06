@@ -16,10 +16,10 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.hunk.view;
+package art.arcane.spatial.hunk.view;
 
-import org.cyberpwn.spatial.hunk.Hunk;
-import org.cyberpwn.spatial.util.Function;
+import art.arcane.spatial.hunk.Hunk;
+import art.arcane.spatial.util.Function;
 
 public class FunctionalHunkView<R, T> implements Hunk<T> {
     private final Hunk<R> src;

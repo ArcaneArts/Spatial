@@ -16,13 +16,13 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.space;
+package art.arcane.spatial.space;
 
+import art.arcane.spatial.util.Function;
+import art.arcane.spatial.util.Pos;
 import com.google.common.collect.ImmutableList;
-import org.cyberpwn.spatial.mantle.Mantle;
-import org.cyberpwn.spatial.util.Consume;
-import org.cyberpwn.spatial.util.Function;
-import org.cyberpwn.spatial.util.Pos;
+import art.arcane.spatial.mantle.Mantle;
+import art.arcane.spatial.util.Consume;
 
 import java.io.File;
 import java.util.HashMap;

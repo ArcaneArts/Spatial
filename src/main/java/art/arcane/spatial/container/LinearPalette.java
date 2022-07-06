@@ -16,9 +16,9 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.container;
+package art.arcane.spatial.container;
 
-import org.cyberpwn.spatial.util.Consume;
+import art.arcane.spatial.util.Consume;
 
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.atomic.AtomicReference;

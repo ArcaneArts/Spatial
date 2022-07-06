@@ -16,7 +16,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.matter;
+package art.arcane.spatial.matter;
 
 @FunctionalInterface
 public interface MatterFilter<T> {

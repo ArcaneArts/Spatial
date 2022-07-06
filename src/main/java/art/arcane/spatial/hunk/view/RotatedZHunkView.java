@@ -16,10 +16,10 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.hunk.view;
+package art.arcane.spatial.hunk.view;
 
 
-import org.cyberpwn.spatial.hunk.Hunk;
+import art.arcane.spatial.hunk.Hunk;
 
 public class RotatedZHunkView<T> implements Hunk<T> {
     private final Hunk<T> src;

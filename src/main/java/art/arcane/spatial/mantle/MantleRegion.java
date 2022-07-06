@@ -16,10 +16,10 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.mantle;
+package art.arcane.spatial.mantle;
 
+import art.arcane.spatial.util.CompressedNumbers;
 import lombok.Getter;
-import org.cyberpwn.spatial.util.CompressedNumbers;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

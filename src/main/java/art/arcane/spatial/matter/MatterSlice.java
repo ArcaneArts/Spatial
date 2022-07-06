@@ -16,18 +16,18 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.matter;
+package art.arcane.spatial.matter;
 
 
-import org.cyberpwn.spatial.container.DataContainer;
-import org.cyberpwn.spatial.container.NodeWritable;
-import org.cyberpwn.spatial.container.Palette;
-import org.cyberpwn.spatial.container.PaletteType;
-import org.cyberpwn.spatial.hunk.Hunk;
-import org.cyberpwn.spatial.hunk.storage.PaletteOrHunk;
-import org.cyberpwn.spatial.util.CompressedNumbers;
-import org.cyberpwn.spatial.util.Pos;
-import org.cyberpwn.spatial.util.Varint;
+import art.arcane.spatial.container.DataContainer;
+import art.arcane.spatial.container.NodeWritable;
+import art.arcane.spatial.container.Palette;
+import art.arcane.spatial.container.PaletteType;
+import art.arcane.spatial.hunk.Hunk;
+import art.arcane.spatial.hunk.storage.PaletteOrHunk;
+import art.arcane.spatial.util.CompressedNumbers;
+import art.arcane.spatial.util.Pos;
+import art.arcane.spatial.util.Varint;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

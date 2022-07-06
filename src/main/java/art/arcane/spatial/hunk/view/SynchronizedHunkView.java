@@ -16,10 +16,10 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.hunk.view;
+package art.arcane.spatial.hunk.view;
 
 
-import org.cyberpwn.spatial.hunk.Hunk;
+import art.arcane.spatial.hunk.Hunk;
 
 @SuppressWarnings("ClassCanBeRecord")
 public class SynchronizedHunkView<T> implements Hunk<T> {

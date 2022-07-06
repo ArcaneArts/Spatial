@@ -16,15 +16,15 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.matter.slices;
+package art.arcane.spatial.matter.slices;
 
 
+import art.arcane.spatial.hunk.storage.PaletteOrHunk;
 import lombok.Getter;
-import org.cyberpwn.spatial.hunk.storage.MappedHunk;
-import org.cyberpwn.spatial.hunk.storage.PaletteOrHunk;
-import org.cyberpwn.spatial.matter.MatterReader;
-import org.cyberpwn.spatial.matter.MatterSlice;
-import org.cyberpwn.spatial.matter.MatterWriter;
+import art.arcane.spatial.hunk.storage.MappedHunk;
+import art.arcane.spatial.matter.MatterReader;
+import art.arcane.spatial.matter.MatterSlice;
+import art.arcane.spatial.matter.MatterWriter;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

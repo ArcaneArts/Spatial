@@ -16,13 +16,13 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.mantle;
+package art.arcane.spatial.mantle;
 
+import art.arcane.spatial.matter.Matter;
+import art.arcane.spatial.matter.MatterSlice;
+import art.arcane.spatial.matter.SpatialMatter;
+import art.arcane.spatial.util.Consume;
 import lombok.Getter;
-import org.cyberpwn.spatial.matter.Matter;
-import org.cyberpwn.spatial.matter.MatterSlice;
-import org.cyberpwn.spatial.matter.SpatialMatter;
-import org.cyberpwn.spatial.util.Consume;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

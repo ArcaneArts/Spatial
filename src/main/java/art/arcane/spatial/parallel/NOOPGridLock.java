@@ -16,10 +16,10 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.parallel;
+package art.arcane.spatial.parallel;
 
 
-import org.cyberpwn.spatial.util.Run;
+import art.arcane.spatial.util.Run;
 
 import java.io.IOException;
 import java.util.function.Supplier;

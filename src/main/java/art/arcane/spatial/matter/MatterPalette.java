@@ -16,11 +16,11 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.matter;
+package art.arcane.spatial.matter;
 
-import org.cyberpwn.spatial.container.DataPalette;
-import org.cyberpwn.spatial.util.IOAdapter;
-import org.cyberpwn.spatial.util.Varint;
+import art.arcane.spatial.container.DataPalette;
+import art.arcane.spatial.util.IOAdapter;
+import art.arcane.spatial.util.Varint;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

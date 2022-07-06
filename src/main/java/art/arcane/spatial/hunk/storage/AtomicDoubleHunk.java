@@ -16,12 +16,12 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.hunk.storage;
+package art.arcane.spatial.hunk.storage;
 
+import art.arcane.spatial.hunk.Hunk;
 import com.google.common.util.concurrent.AtomicDoubleArray;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
-import org.cyberpwn.spatial.hunk.Hunk;
 
 @SuppressWarnings({"DefaultAnnotationParam", "Lombok"})
 @Data

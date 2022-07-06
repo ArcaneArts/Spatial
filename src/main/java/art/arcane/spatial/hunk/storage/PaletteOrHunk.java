@@ -16,12 +16,12 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.hunk.storage;
+package art.arcane.spatial.hunk.storage;
 
-import org.cyberpwn.spatial.container.DataContainer;
-import org.cyberpwn.spatial.container.NodeWritable;
-import org.cyberpwn.spatial.hunk.Hunk;
-import org.cyberpwn.spatial.util.Consume;
+import art.arcane.spatial.hunk.Hunk;
+import art.arcane.spatial.util.Consume;
+import art.arcane.spatial.container.DataContainer;
+import art.arcane.spatial.container.NodeWritable;
 
 import java.io.IOException;
 import java.util.function.Supplier;

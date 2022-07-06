@@ -16,10 +16,10 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.container;
+package art.arcane.spatial.container;
 
+import art.arcane.spatial.util.Varint;
 import org.apache.commons.lang3.Validate;
-import org.cyberpwn.spatial.util.Varint;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

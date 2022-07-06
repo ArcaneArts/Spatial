@@ -16,10 +16,10 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.matter;
+package art.arcane.spatial.matter;
 
 
-import org.cyberpwn.spatial.mantle.Mantle;
+import art.arcane.spatial.mantle.Mantle;
 
 public interface MatterPlacer {
     int getHeight(int x, int z, boolean ignoreFluid);

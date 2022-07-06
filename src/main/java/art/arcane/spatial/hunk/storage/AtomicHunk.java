@@ -16,11 +16,11 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.hunk.storage;
+package art.arcane.spatial.hunk.storage;
 
+import art.arcane.spatial.hunk.Hunk;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
-import org.cyberpwn.spatial.hunk.Hunk;
 
 import java.util.concurrent.atomic.AtomicReferenceArray;
 

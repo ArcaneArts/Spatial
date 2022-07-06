@@ -16,7 +16,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.container;
+package art.arcane.spatial.container;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

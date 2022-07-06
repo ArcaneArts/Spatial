@@ -16,10 +16,10 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.matter;
+package art.arcane.spatial.matter;
 
 
-import org.cyberpwn.spatial.util.Pos;
+import art.arcane.spatial.util.Pos;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

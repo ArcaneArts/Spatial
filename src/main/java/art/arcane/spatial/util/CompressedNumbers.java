@@ -16,7 +16,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package org.cyberpwn.spatial.util;
+package art.arcane.spatial.util;
 
 public class CompressedNumbers {
     public static long i2(int a, int b) {
