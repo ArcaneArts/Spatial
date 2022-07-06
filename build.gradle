@@ -18,7 +18,7 @@ dependencies {
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
     implementation 'org.apache.commons:commons-lang3:3.12.0'
     implementation 'art.arcane:BitPack:22.7.4'
-    implementation 'art.arcane:NBTSon:22.7.10'
+    implementation 'art.arcane:MultiBurst:22.7.2'
     implementation 'com.google.guava:guava:31.1-jre'
     implementation 'com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru:1.4.2'
 }

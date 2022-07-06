@@ -19,11 +19,11 @@
 package art.arcane.spatial.mantle;
 
 
+import art.arcane.multiburst.BurstExecutor;
+import art.arcane.multiburst.MultiBurst;
 import art.arcane.spatial.matter.Matter;
 import art.arcane.spatial.matter.MatterSlice;
-import art.arcane.spatial.parallel.BurstExecutor;
 import art.arcane.spatial.parallel.HyperLock;
-import art.arcane.spatial.parallel.MultiBurst;
 import art.arcane.spatial.util.CompressedNumbers;
 import art.arcane.spatial.util.Consume;
 import lombok.Getter;
