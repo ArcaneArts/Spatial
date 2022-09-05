@@ -1,10 +1,10 @@
 # Spatial
 Put stuff into other stuff in good way 
 
-[![Latest version of 'Spatial' @ Cloudsmith](https://api-prd.cloudsmith.io/v1/badges/version/arcane/archive/maven/Spatial/latest/a=noarch;xg=art.arcane/?render=true&show_latest=true)](https://cloudsmith.io/~arcane/repos/archive/packages/detail/maven/Spatial/latest/a=noarch;xg=art.arcane/)
+![](https://img.shields.io/github/v/release/ArcaneArts/Spatial?color=%236f24f0&display_name=tag&label=Spatial&sort=semver&style=for-the-badge)
 
 ```groovy
-maven { url "https://dl.cloudsmith.io/public/arcane/archive/maven/" }
+maven { url "https://arcanearts.jfrog.io/artifactory/archives" }
 ```
 
 ```groovy
